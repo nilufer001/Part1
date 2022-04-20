@@ -4,4 +4,4 @@ XDXDXD
 
 [![Build Status](https://app.travis-ci.com/nilufer001/Part1.svg?branch=main)](https://app.travis-ci.com/nilufer001/Part1)
 
-fauture/xyz
+feature/xyz
